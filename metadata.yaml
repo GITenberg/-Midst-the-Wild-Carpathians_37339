@@ -1,0 +1,40 @@
+_repo: -Midst-the-Wild-Carpathians_37339
+_version: 0.1.0
+alternative_title: Erdély aranykora. English
+contributor:
+  translator:
+    agent_name: Bain, R. Nisbet (Robert Nisbet)
+    alias: Bain, Robert Nisbet
+    birthdate: 1854
+    deathdate: 1909
+    gutenberg_agent_id: '5096'
+    url: http://www.gutenberg.org/2009/agents/5096
+covers:
+- cover_type: archival
+  image_path: 37339-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Jókai, Mór
+    aliases:
+    - Jokai, Mor
+    - Jokai, Maurus
+    birthdate: 1825
+    deathdate: 1904
+    gutenberg_agent_id: '5845'
+    url: http://www.gutenberg.org/2009/agents/5845
+    wikipedia: http://en.wikipedia.org/wiki/M%C3%B3r_J%C3%B3kai
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2011-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37339'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Transylvania (Romania) -- Fiction'
+title: '''Midst the Wild Carpathians'
+url: http://www.gutenberg.org/ebooks/37339
